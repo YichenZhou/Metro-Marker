@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mikepenz:google-material-typeface-3.0.1.1.original">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-material-typeface-3.0.1.1.original.aar/640fa52fbb5464ad8fd98f59a97ac42e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-material-typeface-3.0.1.1.original.aar/640fa52fbb5464ad8fd98f59a97ac42e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/google-material-typeface/3.0.1.1.original/3a5b75d7ca970bb1b7b6460f83dd868f214d1a76/google-material-typeface-3.0.1.1.original-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

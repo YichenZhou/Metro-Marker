@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ca.allanwang.kau:adapter-3.4.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-3.4.3.aar/5bcd1cca686c9b623ca4313d3d551e6c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-3.4.3.aar/5bcd1cca686c9b623ca4313d3d551e6c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.allanwang.kau/adapter/3.4.3/f1df3748d41bff7bb97b8ccdbe805ad24656a60b/adapter-3.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

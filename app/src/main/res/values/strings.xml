@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Metro Explorer</string>
+    <string name="explore_button">Explore!</string>
+    <string name="detail_button">Detail</string>
+    <string name="go_button">Go!</string>
+    <string name="favorite_option">Add As Favorite</string>
+    <string name="share_option">Share</string>
+    <string name="search">Search Merto Station</string>
+    <string name="no_results">No Results Found</string>
+    <string name="recyclerview_image">Recycler View Image</string>
+    <string name="favorite_icon">My Favorite</string>
+    <string name="land_mark_image">Land Mark Image</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="placeholder">Lorem Ipsum</string>
+    <string name="test">*TEST*</string>
+</resources>

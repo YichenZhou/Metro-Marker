@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ca.allanwang.kau:core-ui-3.4.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-ui-3.4.3.aar/e13d013ff540cbdff64a6f35a566a3ef/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-ui-3.4.3.aar/e13d013ff540cbdff64a6f35a566a3ef/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.allanwang.kau/core-ui/3.4.3/96555885ce59e6f6fcb1ed5701528ac2a30f091/core-ui-3.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

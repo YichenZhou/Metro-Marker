@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">地铁周边探索</string>
+    <string name="explore_button">探索！</string>
+    <string name="detail_button">详细信息</string>
+    <string name="go_button">路线</string>
+    <string name="favorite_option">添加至收藏</string>
+    <string name="share_option">分享</string>
+    <string name="search">查找地铁站</string>
+    <string name="no_results">没有找到结果</string>
+    <string name="recyclerview_image">列表图像</string>
+    <string name="favorite_icon">我的收藏</string>
+    <string name="land_mark_image">地标图像</string>
+    <string name="title_activity_searchable">可搜索活动</string>
+    <string name="placeholder">*测试*</string>
+    <string name="test">*测试专用*</string>
+</resources>
