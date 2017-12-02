@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="ca.allanwang.kau:searchview-3.4.3">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/searchview-3.4.3.aar/f28a812100b4a4917d672ce213a56569/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/searchview-3.4.3.aar/f28a812100b4a4917d672ce213a56569/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/searchview-3.4.3.aar/064afa9fb1eba6e4b4e90d5dc7d43197/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/searchview-3.4.3.aar/064afa9fb1eba6e4b4e90d5dc7d43197/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

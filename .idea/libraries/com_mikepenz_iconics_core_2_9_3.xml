@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.mikepenz:iconics-core-2.9.3">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/iconics-core-2.9.3.aar/6f550eb1ef7bc23d5ce6bd0a095a3292/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/iconics-core-2.9.3.aar/6f550eb1ef7bc23d5ce6bd0a095a3292/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/iconics-core-2.9.3.aar/a772a22b07fb09619d60d9208130e56f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/iconics-core-2.9.3.aar/a772a22b07fb09619d60d9208130e56f/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="ca.allanwang.kau:adapter-3.4.3">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-3.4.3.aar/5bcd1cca686c9b623ca4313d3d551e6c/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-3.4.3.aar/5bcd1cca686c9b623ca4313d3d551e6c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-3.4.3.aar/afd2447e74bc0e9f9d41fa6c0e6a2e60/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-3.4.3.aar/afd2447e74bc0e9f9d41fa6c0e6a2e60/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
